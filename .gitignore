@@ -1,0 +1,13 @@
+# Exported notes, images, and attachments (personal data)
+export/
+
+# Per-run state and output (Drive IDs, page titles, local paths)
+import_state.json
+images_todo.md
+*.tmp
+
+# Only used with --google-auth client
+credentials.json
+
+__pycache__/
+.DS_Store
